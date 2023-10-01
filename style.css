@@ -1,0 +1,21 @@
+body {
+  background-color: #414141;
+  color: whitesmoke;
+}
+button {
+  height: 40px;
+  width: 120px;
+  border: 2px solid;
+  display: block;
+  margin-left: 20px;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  margin-left: 39%;
+  
+}
